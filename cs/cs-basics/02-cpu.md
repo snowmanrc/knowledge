@@ -25,6 +25,9 @@ Main ISAs used in the real world include:
 >  `Instruction Set Architecture` is different from `Micro-Architecture`. The former is an abstract set of operations that the CPU can execute while the latter is the way those instructions are implemented in the actual hardware. 
 >  `Computer Architecture` might refer to both at the same time.
 >  *Two computers with different micro architectures can have the same instruction set architecture.*
+>  
+>  ![Computer Architecture](https://www.youtube.com/watch?v=eNtADpJ2EC4&t=16s)
+
 
 ### Instruction Cycle
 
@@ -45,7 +48,6 @@ The instructions are decoded by a `binary decoder` component which turns the opc
 #### Execute
 
 The decoded instruction is then executed.
-
 
 The cycle also contains data related steps, so the full cycle may be:
 1. *IF*: Instruction Fetch
@@ -87,9 +89,3 @@ The components of this architecture include:
 	1. Data Bus *Transfers data*
 	2. Address Bus *Carries the address of data*
 	3. Control Bus *Carries control commands from the CPU*
-
-#### `References`
-
-Computer Architecture:
-
-![Computer Architecture](https://www.youtube.com/watch?v=eNtADpJ2EC4&t=16s)
