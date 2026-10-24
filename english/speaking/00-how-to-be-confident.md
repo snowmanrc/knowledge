@@ -7,4 +7,4 @@
 - Practice a lot.
 - Find your silent sentence.
 
-[How to be confident (even if you're not.)](https://www.youtube.com/watch?v=eVFzbxmKNUw)
+![How to be confident (even if you're not.)](https://www.youtube.com/watch?v=eVFzbxmKNUw)

@@ -1,31 +1,6 @@
+# Repository of Knowledge
 
-## Repository of Knowledge
-
-A repository containing random knowledge that I learned at university and also by myself.
-
-`NOTE TO SELF`
-This repository is not supposed to be a notebook but is supposed to be a database from which I can actively recall concepts.
-
-Consider the following example:
-```
--- BAD
-
-### Array
-Array is a data structure that stores data in continuous memory locations.
-
-#### Operations
-+ get: Get the data at x index.
-+ set: Set the data at x index with value y.
-
--- GOOD
-
-### Array
-- Data stored continously.
-
-### Operations:
-- get
-- set
-```
+A repository containing random knowledge that I learned at university and also by myself. Written and managed in `Obsidian`.
 
 ## Installing
 
