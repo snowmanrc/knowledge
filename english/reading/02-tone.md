@@ -1,20 +1,16 @@
-## Author's Tone
-`Author's Attitude or Emotional position on the topic.`
+# Author's Tone
+> Author's attitude or emotional position on the topic.
 
-### Revealed by:
-- Word choice
-- Imagery
-- Sentence structure
-	- Short
-	- Abrupt
-	- Flowing
-	- Rhetorical
-- Emphasis
-- Pacing
+-> Model: `WOCE`
+Word choice, Opinion, Candidates, Eliminate
 
-> Name the tone and point out the language that creates it.
+1. Examine word choices
+2. Figure out the author's opinion on the topic.
+3. List candidates that match.
+4. Eliminiate candidates by cross checking.
 
-## Tone vs Mood
+
+### Tone vs Mood
 1. Tone:
 	- Entirely the author's attitude.
 	- Absolute and is not subjective.
