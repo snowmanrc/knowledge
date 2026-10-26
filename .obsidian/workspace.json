@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/calculus/03-integration/01-summation.md",
+                "file": "english/reading/01-style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-summation"
+              "title": "01-style"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "ed6626fc4a516b10",
   "lastOpenFiles": [
+    "english/reading/00-main-idea-and-details.md",
+    "english/reading/03-purpose.md",
+    "math/calculus/03-integration/01-summation.md",
     "math/calculus/03-integration/02-integrals.md",
     "math/calculus/03-integration/03-fundamental-theorem-of-calculus.md",
     "math/calculus/03-integration/04-area.md",
@@ -219,11 +222,8 @@
     "english/writing/01-essay-writing.md",
     "english/listening",
     "math/calculus/03-integration/05-volume.md",
-    "math/calculus/03-integration/01-summation.md",
     "math/calculus/03-integration/00-estimated-area.md",
     "cs/cs-basics/08-networking.md",
-    "cs/cs-basics/07-databases.md",
-    "cs/cs-basics/06-graphs.md",
     "Excalidraw",
     "math/calculus/03-integration",
     "english/writing",
