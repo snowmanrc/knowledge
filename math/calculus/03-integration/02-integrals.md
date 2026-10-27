@@ -30,7 +30,12 @@ Integration, in essence, is the reverse operation of differentiation.
 ## Finding Integrals
 
 1. Anti-derivative Formulas
+    1. Power
+    2. Logarithmic and Exponents
+    3. Trignometric
 2. U-Substitution
+    1. Simple U substitution
+    2. Subsitution formula (change of integral limits)
 3. Integration by Parts
 4. Trignometric Function Substitution
 5. Partial fraction decomposition

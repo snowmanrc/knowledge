@@ -8,3 +8,10 @@ Or in simpler terms, derivative cancels out integral and the upper limit is subs
 
 > [!note] Upper limit is a function?
 > If upper limit itself is a function or a non-variable like $x^3 + 1$, then chain rule must be applied.
+
+
+## Second Statement
+
+> If $f$ is continuous over $[a, b]$ and $F$ is an anti-derivative of $f$ on $[a,b]$, then: $$ \int_{a}^{b} f(x) dx = F(b) - F(a)$$
+> This is the Evaluation Theorem.
+

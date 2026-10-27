@@ -32,3 +32,7 @@ Suppose that $g(x) \le f(x) \le h(x)$ for all $x$ in some open interval containi
 $$\lim_{x \to c} g(x) = \lim_{x \to c} h(x) = L$$
 Then:
 $$\lim_{x \to c} f(x) = L$$
+
+### L' Hopital's Rule
+
+The above rule is explained [here](../02-derivatives/13-lhopitals-rule.md).
