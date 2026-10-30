@@ -36,6 +36,7 @@ Integration, in essence, is the reverse operation of differentiation.
 2. U-Substitution
     1. Simple U substitution
     2. Subsitution formula (change of integral limits)
+    3. Assigning one function to U and rewriting the other in terms of it.
 3. Integration by Parts
 4. Trignometric Function Substitution
 5. Partial fraction decomposition
