@@ -4,5 +4,6 @@
   "showUnsupportedFiles": false,
   "promptDelete": true,
   "livePreview": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showIndentGuide": true
 }

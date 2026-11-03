@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/reading/01-style.md",
+                "file": "english/writing/03-application-writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-style"
+              "title": "03-application-writing"
             }
           }
         ]
@@ -157,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "english/writing/03-application-writing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,7 +167,7 @@
             }
           },
           {
-            "id": "698760a7cf8159f0",
+            "id": "0ab060a1154a3fcc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,18 +185,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed6626fc4a516b10",
+  "active": "29d35fa05ecdc5d4",
   "lastOpenFiles": [
+    "cs/programming-basics/00-computation.md",
+    "english/writing/03-application-writing.md",
+    "english/reading/01-style.md",
     "english/reading/00-main-idea-and-details.md",
     "english/reading/03-purpose.md",
     "math/calculus/03-integration/01-summation.md",
@@ -221,9 +225,6 @@
     "english/writing/00-writing-process.md.md",
     "english/writing/01-essay-writing.md",
     "english/listening",
-    "math/calculus/03-integration/05-volume.md",
-    "math/calculus/03-integration/00-estimated-area.md",
-    "cs/cs-basics/08-networking.md",
     "Excalidraw",
     "math/calculus/03-integration",
     "english/writing",
