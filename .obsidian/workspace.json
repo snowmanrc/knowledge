@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/writing/03-application-writing.md",
+                "file": "books/Animal Farm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-application-writing"
+              "title": "Animal Farm"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english/writing/03-application-writing.md",
+                "file": "math/calculus/02-derivatives/11-graph-sketching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,10 +195,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d35fa05ecdc5d4",
+  "active": "ed6626fc4a516b10",
   "lastOpenFiles": [
-    "cs/programming-basics/00-computation.md",
+    "books/Tips.md",
+    "books/Animal Farm.md",
+    "cs/cs-basics/01-signedness-in-binary.md",
+    "math/calculus/02-derivatives/11-graph-sketching.md",
+    "books",
+    "math/calculus/02-derivatives/12-derivatives-of-inverses.md",
+    "math/calculus/02-derivatives/13-lhopitals-rule.md",
+    "math/calculus/01-limits/04-asymptotes.md",
+    "cs/cs-basics/09-web-dev.md",
+    "cs/cs-basics/08-networking.md",
+    "cs/cs-basics/07-databases.md",
+    "cs/cs-basics/06-graphs.md",
+    "cs/cs-basics/02-cpu.md",
+    "cs/cs-basics/00-number-systems.md",
+    "README.md",
     "english/writing/03-application-writing.md",
+    "cs/programming-basics/00-computation.md",
     "english/reading/01-style.md",
     "english/reading/00-main-idea-and-details.md",
     "english/reading/03-purpose.md",
@@ -206,24 +221,10 @@
     "math/calculus/03-integration/02-integrals.md",
     "math/calculus/03-integration/03-fundamental-theorem-of-calculus.md",
     "math/calculus/03-integration/04-area.md",
-    "cs/cs-basics/02-cpu.md",
-    "cs/cs-basics/09-web-dev.md",
     "math/calculus/02-derivatives/08-extrema.md",
     "math/calculus/02-derivatives/07-monotonicity.md",
     "math/calculus/02-derivatives/06-critical-points.md",
-    "whiteboard/mids-2.md",
-    "README.md",
-    "whiteboard/important.md",
-    "Untitled.md",
     "whiteboard",
-    "whiteboard/plan.md",
-    "english/listening/02-types.md",
-    "english/listening/01-levels.md",
-    "english/listening/00-factors.md",
-    "english/speaking/00-how-to-be-confident.md",
-    "english/reading/06-critical-analysis.md.md",
-    "english/writing/00-writing-process.md.md",
-    "english/writing/01-essay-writing.md",
     "english/listening",
     "Excalidraw",
     "math/calculus/03-integration",
@@ -232,7 +233,6 @@
     "Untitled.canvas",
     "leetcode/problem-4.py",
     "leetcode/problem-9.py",
-    "leetcode/problem",
-    "leetcode/problem-2.py"
+    "leetcode/problem"
   ]
 }
