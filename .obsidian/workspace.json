@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Animal Farm.md",
+                "file": "cs/cs-basics/05-maths-in-cs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animal Farm"
+              "title": "05-maths-in-cs"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.9044990539551
   },
   "right": {
     "id": "604c5bf8ef68234c",
@@ -197,7 +197,20 @@
   },
   "active": "ed6626fc4a516b10",
   "lastOpenFiles": [
+    "cs/cs-basics/04-operating-system.md",
+    "cs/cs-basics/02-cpu.md",
+    "cs/cs-basics/00-number-systems.md",
+    "books/A.md",
+    "books/draft.md",
+    "books/re.md",
+    "books/vision.md",
     "books/Tips.md",
+    "books/rule-of the mighty.md",
+    "books/stance.md",
+    "books/power corruption.md",
+    "books/mollie.md",
+    "books/low.md",
+    "books/ar.md",
     "books/Animal Farm.md",
     "cs/cs-basics/01-signedness-in-binary.md",
     "math/calculus/02-derivatives/11-graph-sketching.md",
@@ -209,21 +222,8 @@
     "cs/cs-basics/08-networking.md",
     "cs/cs-basics/07-databases.md",
     "cs/cs-basics/06-graphs.md",
-    "cs/cs-basics/02-cpu.md",
-    "cs/cs-basics/00-number-systems.md",
     "README.md",
     "english/writing/03-application-writing.md",
-    "cs/programming-basics/00-computation.md",
-    "english/reading/01-style.md",
-    "english/reading/00-main-idea-and-details.md",
-    "english/reading/03-purpose.md",
-    "math/calculus/03-integration/01-summation.md",
-    "math/calculus/03-integration/02-integrals.md",
-    "math/calculus/03-integration/03-fundamental-theorem-of-calculus.md",
-    "math/calculus/03-integration/04-area.md",
-    "math/calculus/02-derivatives/08-extrema.md",
-    "math/calculus/02-derivatives/07-monotonicity.md",
-    "math/calculus/02-derivatives/06-critical-points.md",
     "whiteboard",
     "english/listening",
     "Excalidraw",
